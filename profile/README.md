@@ -1,5 +1,7 @@
 # 🖋️ Aura Ink
 
+[Visit App](https://www.myaura.ink)
+
 **Direct-to-Reader Storytelling & Bounty Marketplace.**
 
 Aura Ink is a modern publishing ecosystem where readers don't just consume stories—they fund their creation. We are building the infrastructure for a **Bounty-First Creator Economy**, replacing traditional ad-revenue models with transparent, milestone-based funding.
